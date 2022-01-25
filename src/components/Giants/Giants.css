@@ -1,0 +1,21 @@
+.container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    width: 83%;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+.giants-container{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-gap: 20px;
+
+
+}
+
+.cart-container{
+    height: 48.5%;
+    margin-left: 20px;
+}
